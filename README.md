@@ -22,6 +22,7 @@
 
 ## My latest Blogs 📒
 <!-- BLOG-POST-LIST:START -->
+- [All About Cryptocurrencies for absolute beginners](https://dev.to/harshitaditya1/all-about-cryptocurrcies-for-absolute-beginners-m2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me 🌐
