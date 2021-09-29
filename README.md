@@ -28,7 +28,7 @@
 ## Connect with me 🌐
 <p align="left">
 <a href="https://twitter.com/harshitaditya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshitaditya1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harshit-aditya-b67bb7205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshit-aditya-b67bb7205/" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/harshitaditya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshit-aditya-b67bb7205/" height="30" width="40" /></a> 
 <a href="https://dev.to/harshitaditya1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="harshitaditya1" height="30" width="40" /></a> 
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucnns0-egkfhkpvmtzgs1goa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucnns0-egkfhkpvmtzgs1goa" height="30" width="40" /></a>
 <a href="https://kaggle.com/harshitaditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harshitaditya" height="30" width="40" /></a>
