@@ -31,12 +31,6 @@
 <a href="https://www.linkedin.com/in/harshitaditya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshit-aditya-b67bb7205/" height="30" width="40" /></a> 
 <a href="https://dev.to/harshitaditya1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="harshitaditya1" height="30" width="40" /></a> 
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucnns0-egkfhkpvmtzgs1goa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucnns0-egkfhkpvmtzgs1goa" height="30" width="40" /></a>
-<a href="https://kaggle.com/harshitaditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harshitaditya" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/devharshit27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devharshit27" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@harshitaditya27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@harshitaditya27" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/harshitaditya27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="harshitaditya27" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshitaditya27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshitaditya27" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@harshitaditya27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@harshitaditya27" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools 🧰
