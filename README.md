@@ -22,6 +22,7 @@
 
 ## My latest Blogs 📒
 <!-- BLOG-POST-LIST:START -->
+- [Mistakes I made while learning Web Development as a beginner](https://dev.to/harshitaditya1/mistakes-i-made-while-learning-web-development-as-a-beginner-4m7n)
 - [All About Cryptocurrencies for absolute beginners](https://dev.to/harshitaditya1/all-about-cryptocurrcies-for-absolute-beginners-m2)
 <!-- BLOG-POST-LIST:END -->
 
