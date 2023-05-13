@@ -45,8 +45,8 @@
 | Project Name      | Tech Stack Used |  Project Link | 
 | :---:        |    :----   |       :----   | 
 | [Snapchat](https://github.com/HarshitAditya27/Snapchat)     | HTML, CSS, JavaScript, Firebase, React|  https://snapchat-fe697.web.app/  
-| [airbnb](https://github.com/HarshitAditya27/airbnb)     | HTML,  TailwindCSS,, JavaScript,React, Next.JS|  https://airbnb-rosy.vercel.app/    
-| [Metaverse Messanger](https://github.com/HarshitAditya27/Metaverse-Messenger)     | HTML, TailwindCSS, JavaScript, React, Next.js | https://metaverse-messenger-two.vercel.app/  | [Music Player](https://harshitaditya27.github.io/Music-Player/)     | HTML, CSS, JavaScript | https://harshitaditya27.github.io/Music-Player/
+| [Your Abstractor](https://github.com/HarshitAditya27/Your-Abstractor)     | HTML, TailwindCSS, JavaScript, React|  https://your-abstractor.netlify.app/    
+| [My-Extension](https://github.com/HarshitAditya27/My-Extension)     |JavaScript | https://marketplace.visualstudio.com/items?itemName=MSFTDev.my-extensions-dark&ssr=false#overview  | [Music Player](https://harshitaditya27.github.io/Music-Player/)     | HTML, CSS, JavaScript | https://harshitaditya27.github.io/Music-Player/
 | [Pokemon Card Generator](https://github.com/HarshitAditya27/Pokemon-Card-Generator)     | HTML, CSS, JavaScript |  https://harshitaditya27.github.io/Pokemon-Card-Generator/   
 | [DevStation](https://github.com/HarshitAditya27/DevStation)     | HTML, CSS, JavaScript, Node.JS, Express|  https://devlopershome.herokuapp.com/   
 | [Pomodoro Timer](https://github.com/HarshitAditya27/Pomodoro-Timer)     | HTML, CSS, JavaScript, Node.JS, Express, React|  https://pensive-turing-2c3165.netlify.app/   
