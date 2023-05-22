@@ -46,9 +46,9 @@
 | :---:        |    :----   |       :----   | 
 | [Snapchat](https://github.com/HarshitAditya27/Snapchat)     | HTML, CSS, JavaScript, Firebase, React|  https://snapchat-fe697.web.app/  
 | [Your Abstractor](https://github.com/HarshitAditya27/Your-Abstractor)     | HTML, TailwindCSS, JavaScript, React|  https://your-abstractor.netlify.app/    
+| [Medium](https://github.com/HarshitAditya27/Medium)     | HTML, TailwindCSS, JavaScript, React, Next.JS|  https://medium-mocha-seven.vercel.app/
 | [My-Extension](https://github.com/HarshitAditya27/My-Extension)     |JavaScript | https://marketplace.visualstudio.com/items?itemName=MSFTDev.my-extensions-dark&ssr=false#overview  | [Music Player](https://harshitaditya27.github.io/Music-Player/)     | HTML, CSS, JavaScript | https://harshitaditya27.github.io/Music-Player/
-| [Pokemon Card Generator](https://github.com/HarshitAditya27/Pokemon-Card-Generator)     | HTML, CSS, JavaScript |  https://harshitaditya27.github.io/Pokemon-Card-Generator/   
-| [DevStation](https://github.com/HarshitAditya27/DevStation)     | HTML, CSS, JavaScript, Node.JS, Express|  https://devlopershome.herokuapp.com/   
+| [Pokemon Card Generator](https://github.com/HarshitAditya27/Pokemon-Card-Generator)     | HTML, CSS, JavaScript |  https://harshitaditya27.github.io/Pokemon-Card-Generator/      
 | [Pomodoro Timer](https://github.com/HarshitAditya27/Pomodoro-Timer)     | HTML, CSS, JavaScript, Node.JS, Express, React|  https://pensive-turing-2c3165.netlify.app/   
 | [VoiceFoodStore (Hackathon Project)](https://github.com/HarshitAditya27/voicefoodstore) | HTML, TailwindCSS, JavaScript, Alan.ai, React | https://condescending-mcnulty-3be88d.netlify.app/
 | [Guess My Number](https://github.com/HarshitAditya27/Guess-My-Number)   | HTML, CSS, JavaScript |https://harshitaditya27.github.io/Guess-My-Number/ |   
