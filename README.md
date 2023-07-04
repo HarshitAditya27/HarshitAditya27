@@ -58,7 +58,9 @@
 
 ## My GitHub Statistics 📊
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitaditya27&show_icons=true&locale=en" alt="harshitaditya27" /></p>
+--> 
 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitaditya27&" alt="harshitaditya27" /></p> 
 
