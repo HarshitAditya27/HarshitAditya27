@@ -21,7 +21,8 @@
 - 📫 How to reach me **harshitadiya27@gmail.com**.
 
 ## My latest Blogs 📒
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --> 
+- [Setting up React Native environment on Windows](https://dev.to/harshitaditya1/setting-up-react-native-environment-on-windows-n09)
 - [Understanding CMS using Sanity](https://dev.to/harshitaditya1/understanding-cms-using-sanity-4of)
 - [Mistakes I made while learning Web Development as a beginner](https://dev.to/harshitaditya1/mistakes-i-made-while-learning-web-development-as-a-beginner-4m7n)
 - [All About Cryptocurrencies for absolute beginners](https://dev.to/harshitaditya1/all-about-cryptocurrcies-for-absolute-beginners-m2)
