@@ -47,7 +47,8 @@
 | :---:        |    :----   |       :----   | 
 | [Snapchat](https://github.com/HarshitAditya27/Snapchat)     | HTML, CSS, JavaScript, Firebase, React|  https://snapchat-fe697.web.app/  
 | [Your Abstractor](https://github.com/HarshitAditya27/Your-Abstractor)     | HTML, TailwindCSS, JavaScript, React|  https://your-abstractor.netlify.app/    
-| [Medium](https://github.com/HarshitAditya27/Medium)     | HTML, TailwindCSS, JavaScript, React, Next.JS|  https://medium-mocha-seven.vercel.app/
+| [Medium](https://github.com/HarshitAditya27/Medium)     | HTML, TailwindCSS, JavaScript, React, Next.JS|  https://medium-mocha-seven.vercel.app/ 
+| [Nike](https://github.com/HarshitAditya27/Nike)     | HTML, TailwindCSS, JavaScript, React|  https://nike-navy-seven.vercel.app/
 | [NodeBot](https://github.com/HarshitAditya27/NodeBot)     | JavaScript, Node.js  | https://github.com/HarshitAditya27/NodeBot
 | [My-Extension](https://github.com/HarshitAditya27/My-Extension)     |JavaScript | https://marketplace.visualstudio.com/items?itemName=MSFTDev.my-extensions-dark&ssr=false#overview  | [Music Player](https://harshitaditya27.github.io/Music-Player/)     | HTML, CSS, JavaScript | https://harshitaditya27.github.io/Music-Player/
 | [Pokemon Card Generator](https://github.com/HarshitAditya27/Pokemon-Card-Generator)     | HTML, CSS, JavaScript |  https://harshitaditya27.github.io/Pokemon-Card-Generator/      
