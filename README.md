@@ -45,6 +45,7 @@
 
 | Project Name      | Tech Stack Used |  Project Link | 
 | :---:        |    :----   |       :----   | 
+| [Threads](https://github.com/HarshitAditya27/Threads)     | HTML, TailwindCSS, TypeScript, React, Next.js, MongoDB|  https://threads-woad.vercel.app/
 | [Snapchat](https://github.com/HarshitAditya27/Snapchat)     | HTML, CSS, JavaScript, Firebase, React|  https://snapchat-fe697.web.app/  
 | [Your Abstractor](https://github.com/HarshitAditya27/Your-Abstractor)     | HTML, TailwindCSS, JavaScript, React|  https://your-abstractor.netlify.app/    
 | [Medium](https://github.com/HarshitAditya27/Medium)     | HTML, TailwindCSS, JavaScript, React, Next.JS|  https://medium-mocha-seven.vercel.app/ 
