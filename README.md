@@ -67,7 +67,7 @@
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitaditya27&show_icons=true&locale=en" alt="harshitaditya27" /></p>
 --> 
-<!--
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitaditya27&" alt="harshitaditya27" /></p> 
--->
+
+ <p><img align="center" src="https://streak-stats.demolab.com/?user=HarshitAditya27" alt="harshitaditya27" /></p> 
+
 <!-- ![](https://activity-graph.herokuapp.com/graph?username=harshitaditya27&theme=github) -->
